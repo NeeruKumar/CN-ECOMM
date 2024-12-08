@@ -1,0 +1,9 @@
+Place Order:
+1. Get the cart Items of user and calculate the total amount.
+2. Create a record for Order.
+3. Reduce the Stocks(Product Quantity).
+4. Clear the cart.
+
+5.
+6
+7
